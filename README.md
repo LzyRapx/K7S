@@ -1,2 +1,2 @@
 # K7S
-A Mni K8S
+A Mini K8S
