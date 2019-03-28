@@ -1,12 +1,12 @@
 # K7S
 one less than K8S
-# Kubernetes
+# K-Seven-S
 
 <img src="https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png" width="100">
 
 ----
 
-Kubernetes without any features.
+ K-Seven-S without any features.
 ----
 
 Kubernetes is an open source system for managing [containerized applications]
