@@ -1,8 +1,13 @@
+<!--
+ * @Author: zhaoyang.liang
+ * @Github: https://github.com/LzyRapx
+ * @Date: 2020-04-01 00:43:00
+ -->
 # SimpleK8S
 
 <img src="https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png" width="100">
 
-----s
+----
 
 Kubernetes is an open source system for managing [containerized applications]
 across multiple hosts; providing basic mechanisms for deployment, maintenance,
