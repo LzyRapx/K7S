@@ -1,13 +1,8 @@
-# K7S
-#### one less than K8S
-# K-Seven-S
+# SimpleK8S
 
 <img src="https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png" width="100">
 
-----
-
- K-Seven-S without any features.
-----
+----s
 
 Kubernetes is an open source system for managing [containerized applications]
 across multiple hosts; providing basic mechanisms for deployment, maintenance,
